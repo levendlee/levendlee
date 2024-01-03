@@ -5,10 +5,10 @@ Software Engineer in Waymo. C++ and Python programmer. Interested in machine lea
 From Beijing. Lived in Ann Arbor, Chicago, NYC, and Seattle. Love cooking, gardening, hiking, and traveling.
 
 ## Professional
-[LinkedIn](https://www.linkedin.com/in/shikaili/) | [GitHub](https://github.com/levendlee) | [WordPress](https://levendlee.wordpress.com) | [HuggingFace](https://huggingface.co/levendlee) | [LeetCode](https://leetcode.com/levendlee)
+[GitHub](https://github.com/levendlee) | [WordPress](https://levendlee.wordpress.com) | [HuggingFace](https://huggingface.co/levendlee) | [LeetCode](https://leetcode.com/levendlee)
 
-## Personal
-[TikTok](https://www.tiktok.com/@levendlee) | [Youtube](https://www.youtube.com/@levendlee)
+## Social
+[LinkedIn](https://www.linkedin.com/in/shikaili/) | [X(Twitter)](https://x.com/levendlee) | [TikTok](https://www.tiktok.com/@levendlee) | [Youtube](https://www.youtube.com/@levendlee)
 
 ## Contacts
 [Telegram](https://t.me/levendlee) | [Email](mailto:levedlee@gmail.com)
