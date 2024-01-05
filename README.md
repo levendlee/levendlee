@@ -13,6 +13,12 @@ From Beijing. Lived in Ann Arbor, Chicago, NYC, and Seattle. Love cooking, garde
 ## Contacts
 [Telegram](https://t.me/levendlee) | [Email](mailto:levedlee@gmail.com)
 
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=levendlee&theme=dark&dark_icons=true)
+                  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levendlee&size_weight=0.5&count_weight=0.5&theme=dark&exclude_repo=ml-basics&layout=compact)
+
 <!--
 **levendlee/levendlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
