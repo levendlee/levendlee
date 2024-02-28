@@ -1,6 +1,6 @@
 ## About Me
 
-Software Engineer in Waymo. C++ and Python programmer. Interested in machine learning, compiler, and architecture.
+Software Engineer in Meta. C++ and Python programmer. Interested in machine learning, compiler, and architecture.
 
 From Beijing. Lived in Ann Arbor, Chicago, NYC, and Seattle. Love cooking, gardening, hiking, and traveling.
 
